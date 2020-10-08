@@ -8,9 +8,9 @@ Image Classification with deep Learning using Tensorflow and Keras
 
 There are various datasets that you can leverage for applying convolutional neural networks. Here are three popular datasets:
 
-1 MNIST
-2 CIFAR-10
-3 ImageNet
+* MNIST
+* CIFAR-10
+* ImageNet
 
 # 1.Using CNNs to Classify Hand-written Digits on MNIST Dataset
 ###  MNIST CNN
